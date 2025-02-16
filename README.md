@@ -1,5 +1,3 @@
-# Chronos (TimeTracker)
-
 # 🕒 Chronos (TimeTracker) - приложение для мониторинга активности
 **🇷🇺 Русский | 🇬🇧 English**
 
